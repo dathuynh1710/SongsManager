@@ -1,0 +1,85 @@
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.exe
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.deps.json
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.runtimeconfig.json
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.runtimeconfig.dev.json
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.dll
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.pdb
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.csproj.AssemblyReference.cache
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.FlashScreen.resources
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.frmLogin.resources
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.frmMain.resources
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.csproj.GenerateResource.cache
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.AssemblyInfoInputs.cache
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.AssemblyInfo.cs
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.csproj.CoreCompileInputs.cache
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.dll
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.pdb
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.genruntimeconfig.cache
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmQL_Album.resources
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmQL_BaiHat.resources
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmQL_CaSi.resources
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmQL_TheLoai.resources
+D:\Practice\DotNet\DoAn_QLBH\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Properties.Resources.resources
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.csproj.AssemblyReference.cache
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.FlashScreen.resources
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmQL_BaiHat.resources
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.frmMain.resources
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Properties.Resources.resources
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.csproj.GenerateResource.cache
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.AssemblyInfoInputs.cache
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.AssemblyInfo.cs
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.csproj.CoreCompileInputs.cache
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.dll
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.pdb
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.exe
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.deps.json
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.runtimeconfig.json
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.runtimeconfig.dev.json
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.dll
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.pdb
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.csproj.CopyComplete
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.genruntimeconfig.cache
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmDS_CaSi.resources
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmDS_TheLoai.resources
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmDS_Album.resources
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmDS_HangDia.resources
+D:\Downloads\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmDS_TacGia.resources
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.exe
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.deps.json
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.runtimeconfig.json
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.runtimeconfig.dev.json
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.dll
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\QuanLyBaiHat.pdb
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.csproj.AssemblyReference.cache
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.FlashScreen.resources
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmDS_Album.resources
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmDS_CaSi.resources
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmDS_HangDia.resources
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmDS_TacGia.resources
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmDS_TheLoai.resources
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Forms.frmQL_BaiHat.resources
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.frmMain.resources
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.Properties.Resources.resources
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.csproj.GenerateResource.cache
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.AssemblyInfoInputs.cache
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.AssemblyInfo.cs
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.csproj.CoreCompileInputs.cache
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.csproj.CopyComplete
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.dll
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.pdb
+D:\Practice\DotNet\To2_Nhom 06_Chude 18\QuanLyBaiHat\QuanLyBaiHat\obj\Debug\netcoreapp3.1\QuanLyBaiHat.genruntimeconfig.cache
