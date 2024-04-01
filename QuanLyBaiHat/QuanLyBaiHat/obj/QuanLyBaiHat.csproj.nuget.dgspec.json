@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice\\DotNet\\To2_Nhom 06_Chude 18\\QuanLyBaiHat\\QuanLyBaiHat\\QuanLyBaiHat.csproj": {}
+    "D:\\Practice\\DotNet\\To2_Nhom 06_Chude 18\\QLBH\\QuanLyBaiHat\\QuanLyBaiHat\\QuanLyBaiHat.csproj": {}
   },
   "projects": {
-    "D:\\Practice\\DotNet\\To2_Nhom 06_Chude 18\\QuanLyBaiHat\\QuanLyBaiHat\\QuanLyBaiHat.csproj": {
+    "D:\\Practice\\DotNet\\To2_Nhom 06_Chude 18\\QLBH\\QuanLyBaiHat\\QuanLyBaiHat\\QuanLyBaiHat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice\\DotNet\\To2_Nhom 06_Chude 18\\QuanLyBaiHat\\QuanLyBaiHat\\QuanLyBaiHat.csproj",
+        "projectUniqueName": "D:\\Practice\\DotNet\\To2_Nhom 06_Chude 18\\QLBH\\QuanLyBaiHat\\QuanLyBaiHat\\QuanLyBaiHat.csproj",
         "projectName": "QuanLyBaiHat",
-        "projectPath": "D:\\Practice\\DotNet\\To2_Nhom 06_Chude 18\\QuanLyBaiHat\\QuanLyBaiHat\\QuanLyBaiHat.csproj",
+        "projectPath": "D:\\Practice\\DotNet\\To2_Nhom 06_Chude 18\\QLBH\\QuanLyBaiHat\\QuanLyBaiHat\\QuanLyBaiHat.csproj",
         "packagesPath": "C:\\Users\\Dat\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice\\DotNet\\To2_Nhom 06_Chude 18\\QuanLyBaiHat\\QuanLyBaiHat\\obj\\",
+        "outputPath": "D:\\Practice\\DotNet\\To2_Nhom 06_Chude 18\\QLBH\\QuanLyBaiHat\\QuanLyBaiHat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dat\\AppData\\Roaming\\NuGet\\NuGet.Config",
